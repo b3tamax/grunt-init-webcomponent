@@ -1,0 +1,31 @@
+{
+  "name": "grunt-init-webcomponent",
+  "description": "Create a basic setup for authoring Web Components using X-Tags",
+  "version": "0.1.0",
+  "homepage": "https://github.com/b3tamax/grunt-init-webcomponent",
+  "author": {
+    "name": "James Meldrum",
+    "email": "jrm.general@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b3tamax/grunt-init-webcomponent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/b3tamax/grunt-init-webcomponent/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/b3tamax/grunt-init-webcomponent/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+  },
+  "keywords": [],
+  "dependencies": {
+  }
+}

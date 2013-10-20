@@ -1,6 +1,7 @@
 # grunt-init-webcomponent
 
 [x-tags]: http://http://www.x-tags.org/
+[grunt-init]: http://gruntjs.com/project-scaffolding
 
 > Create a basic setup for authoring Web Components using [x-tags][].
 
@@ -10,7 +11,7 @@ If you haven't already done so, install [grunt-init][].
 Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
 
 ```
-git clone git://github.com/amsul/grunt-init-jekyll.git ~/.grunt-init/jekyll
+git clone git://github.com/b3tamax/grunt-init-jekyll.git ~/.grunt-init/jekyll
 ```
 
 _(Windows users, see [the documentation][grunt-init] for the correct destination directory path)_
