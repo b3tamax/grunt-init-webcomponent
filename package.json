@@ -25,7 +25,16 @@
   },
   "devDependencies": {
   },
-  "keywords": [],
+  "keywords": [
+    "x-tags",
+    "web",
+    "components",
+    "web components",
+    "grunt",
+    "grunt init",
+    "grunt-init",
+    "grunt-init-"
+  ],
   "dependencies": {
   }
 }
