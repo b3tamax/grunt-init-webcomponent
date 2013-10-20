@@ -1,5 +1,5 @@
 /**
- * grunt-init-webcomponent v0.1.0, 2013-10-20
+ * grunt-init-webcomponent v0.1.1, 2013-10-20
  *
  * Hosted on http://github.com/b3tamax/grunt-init-webcomponent
  * Copyright (c) 2013 b3tamax - http://b3tamax.github.io
