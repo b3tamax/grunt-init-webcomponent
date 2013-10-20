@@ -1,0 +1,6 @@
+{
+  "demo/main.js" : "demo/{%= name %}.js",
+  "demo/main.css" : "demo/{%= name %}.css",
+  "src/main.js" : "src/{%= name %}.js",
+  "src/main.css" : "src/{%= name %}.css"
+}
